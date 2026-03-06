@@ -55,11 +55,9 @@ During training, the model checkpoint will be automatically saved every 500 iter
 ## Project Structure
 
 ```
-yolov9-500iter-save
+yolov9c_enhanced_checkpoint
 │
-├── train_yolov9c.py
-├── validate.py
-├── test.py
+├── scripts/
 ├── models/
 ├── utils/
 └── README.md
