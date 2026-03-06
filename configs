@@ -1,0 +1,11 @@
+train: YOLO_dataset/images/train
+val: YOLO_dataset/images/valid
+
+nc: 5
+
+names:
+  - no_fracture
+  - mild_fracture
+  - moderate_fracture
+  - severe_fracture
+  - critical_fracture
