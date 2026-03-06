@@ -55,7 +55,7 @@ During training, the model checkpoint will be automatically saved every 500 iter
 ## Project Structure
 
 ```
-yolov9c_enhanced_checkpoint
+yolov9c_enhanced_saveability
 │
 ├── scripts/
 ├── models/
